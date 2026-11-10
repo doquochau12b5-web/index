@@ -1,0 +1,13 @@
+{
+  "name": "map500k",
+  "version": "1.0.0",
+  "description": "Trang giới thiệu dịch vụ 500KUSER - người phụ trách: Đỗ Quốc Hậu, hotline 0922396033.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
